@@ -1,0 +1,12 @@
+2026-10-05 00:08:20 [INFO] [admin] [LOGIN_FAILED] StudentID: N/A | User does not exist
+2026-10-05 00:09:30 [INFO] [admin] [LOGIN_FAILED] StudentID: N/A | User does not exist
+2026-10-05 00:16:08 [INFO] [admin] [LOGIN_SUCCESS] StudentID: N/A | Authentication successful (Role: Super Admin)
+2026-10-05 00:17:55 [INFO] [System] [EXPORT_REPORT] StudentID: N/A | Exported CSV: students_report.csv
+2026-10-05 00:18:04 [INFO] [System] [EXPORT_REPORT] StudentID: N/A | Exported PDF: class_performance.pdf
+2026-10-05 00:32:46 [INFO] [admin] [LOGIN_SUCCESS] StudentID: N/A | Authentication successful (Role: Super Admin)
+2026-10-05 11:48:59 [INFO] [admin] [LOGIN_FAILED] StudentID: N/A | Attempt 1 of 3
+2026-10-05 11:49:22 [INFO] [admin] [LOGIN_SUCCESS] StudentID: N/A | Authentication successful (Role: Super Admin)
+2026-10-05 11:49:51 [INFO] [System] [DELETE_STUDENT] StudentID: STU001 | Deleted student (soft=True)
+2026-10-05 23:32:42 [INFO] [admin] [LOGIN_SUCCESS] StudentID: N/A | Authentication successful (Role: Super Admin)
+2026-10-07 14:01:21 [INFO] [admin] [LOGIN_FAILED] StudentID: N/A | Attempt 1 of 3
+2026-10-07 14:01:34 [INFO] [admin] [LOGIN_SUCCESS] StudentID: N/A | Authentication successful (Role: Super Admin)

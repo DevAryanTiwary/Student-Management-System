@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "salt": "54537dc9bc5053a978443421f7f66cec",
+        "hash": "200b944cc8323f65d7426862dbacf572be364b01345f927d6d775b0c6a3db8e8",
+        "role": "Super Admin",
+        "created_at": "2026-10-05T00:15:25.340351",
+        "is_locked": false,
+        "is_enabled": true
+    }
+}
